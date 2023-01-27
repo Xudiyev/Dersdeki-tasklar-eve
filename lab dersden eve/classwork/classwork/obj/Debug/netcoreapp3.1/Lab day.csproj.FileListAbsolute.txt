@@ -1,0 +1,14 @@
+C:\Users\arkanhk\source\repos\classwork\classwork\obj\Debug\netcoreapp3.1\Lab day.csproj.AssemblyReference.cache
+C:\Users\arkanhk\source\repos\classwork\classwork\obj\Debug\netcoreapp3.1\Lab day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkanhk\source\repos\classwork\classwork\obj\Debug\netcoreapp3.1\Lab day.AssemblyInfoInputs.cache
+C:\Users\arkanhk\source\repos\classwork\classwork\obj\Debug\netcoreapp3.1\Lab day.AssemblyInfo.cs
+C:\Users\arkanhk\source\repos\classwork\classwork\obj\Debug\netcoreapp3.1\Lab day.csproj.CoreCompileInputs.cache
+C:\Users\arkanhk\source\repos\classwork\classwork\bin\Debug\netcoreapp3.1\Lab day.exe
+C:\Users\arkanhk\source\repos\classwork\classwork\bin\Debug\netcoreapp3.1\Lab day.deps.json
+C:\Users\arkanhk\source\repos\classwork\classwork\bin\Debug\netcoreapp3.1\Lab day.runtimeconfig.json
+C:\Users\arkanhk\source\repos\classwork\classwork\bin\Debug\netcoreapp3.1\Lab day.runtimeconfig.dev.json
+C:\Users\arkanhk\source\repos\classwork\classwork\bin\Debug\netcoreapp3.1\Lab day.dll
+C:\Users\arkanhk\source\repos\classwork\classwork\bin\Debug\netcoreapp3.1\Lab day.pdb
+C:\Users\arkanhk\source\repos\classwork\classwork\obj\Debug\netcoreapp3.1\Lab day.dll
+C:\Users\arkanhk\source\repos\classwork\classwork\obj\Debug\netcoreapp3.1\Lab day.pdb
+C:\Users\arkanhk\source\repos\classwork\classwork\obj\Debug\netcoreapp3.1\Lab day.genruntimeconfig.cache
